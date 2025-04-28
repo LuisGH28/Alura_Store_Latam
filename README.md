@@ -24,7 +24,7 @@ El análisis considera factores económicos, de satisfacción del cliente y cost
 1. Clonar este repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/analisis-tiendas.git
+   git clone https://github.com/LuisGH28/Alura_Store_Latam.git
    ```
 2. Instalar dependencias necesarias:
 
